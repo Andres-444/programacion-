@@ -1,2 +1,7 @@
 28 de octubre  : se trabajo las listas de Numpy en colab 
-conocimos la funciones básicas e hicimos ejemplos de ellas 
+conocimos la funciones básicas e hicimos ejemplos de ellas.
+
+4 de noviembre: se trabajo sobre con la librería panda 
+trabajamos en colab conociendo de la pregunta al código 
+vimos el datagrama, series de las tablas y sus columnas 
+y por ultimo el profesor nos sugirió ir buscando datasets para la próxima clase 2 por cada persona .
