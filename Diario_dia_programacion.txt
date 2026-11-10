@@ -2,3 +2,5 @@
 
 4 de noviembre: este dia nos mostraron a mirar la lista de una forma mas especifica mirar en una en un detased que este me tira una archivo csv o excel y este se ejecuta facil con el comando "import pandas as pd
 import numpy as np " y se pueden ejecutar varios comandos para este ver el tema de una parte en especifico, sacar porcentajes, máximo y mínimo, borrar unas cosas repetidas y así   
+
+9 de noviembre: este dia miramos como hacer unas graficas, estos con los comandos plt estos ayuda a generar las graficas 
