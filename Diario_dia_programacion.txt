@@ -1,1 +1,6 @@
 28 de octubre: El día de hoy, tuvimos un acercamiento con los "np". Estos son una forma de automatizar con los valores que tú le pides, por ejemplo: "np.zeros(5)", esta repite los ceros 5 veces. Podemos poner valores random con el comando "np.random.normal" y se le suma "round", esto sirve para poder la cantidad de decimales. El comando " np.array" se puede generar una lista, y dentro de estas puede sacar varios print que me diga, el promedio es "nombre.mean", la media es "np.median", la suma de los valores es "nombre_sum", el mínimo se saca con "min" y el max es "max", la desviación es "nombre.std", y como último están los valores únicos " np.unique". Estos son unos que explicaron este día.
+
+4 de noviembre: este dia nos mostraron a mirar la lista de una forma mas especifica mirar en una en un detased que este me tira una archivo csv o excel y este se ejecuta facil con el comando "import pandas as pd
+import numpy as np " y se pueden ejecutar varios comandos para este ver el tema de una parte en especifico, sacar porcentajes, máximo y mínimo, borrar unas cosas repetidas y así   
+
+9 de noviembre: este dia miramos como hacer unas graficas, estos con los comandos plt estos ayuda a generar las graficas 
