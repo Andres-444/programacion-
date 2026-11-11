@@ -5,3 +5,14 @@ conocimos la funciones básicas e hicimos ejemplos de ellas.
 trabajamos en colab conociendo de la pregunta al código 
 vimos el datagrama, series de las tablas y sus columnas 
 y por ultimo el profesor nos sugirió ir buscando datasets para la próxima clase 2 por cada persona .
+
+9 de noviembre: hicimos una translación de numpy para trabajar con números 
+creamos gráficos de líneas , los personalizamos 
+aprendimos datos mediante gráficos de Python
+y por ultimo miramos como depurar bases de datos , revisar lo que debemos eliminar ,etc.
+
+
+
+
+
+
