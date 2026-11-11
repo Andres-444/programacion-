@@ -4,3 +4,6 @@ Cuando necesitas valores aleatorios se utiliza np.random.normal, y si no quieres
 se saca el promedio con nombre.mean, la mediana con np.median, el total acumulado con nombre_sum, los topes inferior y superior usando min y max, qué tan dispersos están los datos con nombre.std etc.
 clase 4 de noviembre Durante la clase aprendimos sobre el uso de la librería Pandas en Python para organizar, explorar y analizar datos. Vimos qué es un DataFrame y cómo está compuesto por filas y columnas. También aprendimos a utilizar funciones como shape, head(), info() y describe() para conocer la cantidad de datos, sus tipos y obtener información estadística.Además, trabajamos con herramientas para contar datos por categorías y calcular promedios por grupos utilizando groupby() y mean(). También vimos cómo filtrar datos mediante condiciones, identificar valores faltantes y duplicados, y la importancia de limpiar la información antes de analizarla.
 
+clase 9 de noviembre aprendimos a crear gráficos con las bibliotecas NumPy y Matplotlib. Realizamos gráficos de barras para comparar cantidades, gráficos circulares para representar porcentajes y gráficos de líneas para mostrar cambios en los valores. Esta actividad nos permitió comprender cómo organizar, representar y analizar datos de manera visual y sencilla
+
+
